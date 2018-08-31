@@ -1,0 +1,14 @@
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\bin\Debug\netcoreapp2.1\HelloApp.deps.json
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\bin\Debug\netcoreapp2.1\HelloApp.runtimeconfig.json
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\bin\Debug\netcoreapp2.1\HelloApp.runtimeconfig.dev.json
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\bin\Debug\netcoreapp2.1\HelloApp.dll
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\bin\Debug\netcoreapp2.1\HelloApp.pdb
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.csprojAssemblyReference.cache
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.csproj.CoreCompileInputs.cache
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.RazorAssemblyInfo.cache
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.RazorAssemblyInfo.cs
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.AssemblyInfoInputs.cache
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.AssemblyInfo.cs
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.RazorTargetAssemblyInfo.cache
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.dll
+D:\OneDrive\C#\ASP.NET\Metanit\HelloApp\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.pdb
